@@ -1,0 +1,13 @@
+.wrapper {
+    border:1px solid black;
+    width:200px;
+    height:200px;
+}
+
+.wrapper img {
+    width:100%;
+}
+
+.spinner {
+    position:relative !important;
+}
